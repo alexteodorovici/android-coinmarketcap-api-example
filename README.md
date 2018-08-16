@@ -11,7 +11,8 @@ This application uses the new Professional API from pro.coinmarketcap.com to dis
 * well commented code
 
 https://pro.coinmarketcap.com/api/v1#section/Quick-Start-Guide
-! make sure to update the header with YOUR API KEY in the APIInterface class.
+
+Make sure to update the header with YOUR API KEY in the APIInterface class.
 
 <p align="center">
   <img width="350"  src="device-2018-08-16-162437.png?raw=true">
